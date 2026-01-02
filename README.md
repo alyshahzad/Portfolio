@@ -9,7 +9,7 @@ Python, Excel, HTML/CSS,
 
 ## Education
 - Bachelor of Science in English | University of Southern Punjab, Multan (2026)  
-- Bachelor of Arts (B.A.) | Bahauddin Zakariya University, Multan (2022)
+- Bachelor of Arts (B.A.)        | Bahauddin Zakariya University, Multan (2022)
 
 ---
 
