@@ -3,12 +3,12 @@
 ---
 
 ## Technical Skills
-Python, Excel, HTML/CSS,
+Excel, HTML/CSS,
 
 ---
 
 ## Education
-- Bachelor of Science in English | University of Southern Punjab, Multan (2026)  
+- Bachelor of Science in English | University of Southern Punjab, Multan | Expected Feb 2026 
 - Bachelor of Arts (B.A.)           | Bahauddin Zakariya University, Multan (2022)
 
 ---
@@ -21,7 +21,7 @@ Python, Excel, HTML/CSS,
 
 ---
 
-## Projects
+## Additional Interests / Personal Projects
 ### 1. [CLoud Booking](https://alyshahzad.github.io/Cloud-Booking/)
 - Language/Tools: Html, CSS,
 - Description: Developed the front end of a flight booking website featuring navigation menus, class selection (Economy/Business/First), destination search, traveler and date inputs, 
