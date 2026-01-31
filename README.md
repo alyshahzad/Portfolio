@@ -36,9 +36,14 @@ Excel, HTML/CSS,
 ---
 
 ## Certificates
-- [Python for Data Science and Machine Learning Bootcamp](https://github.com/alyshahzad/Portfolio/blob/main/certificates/UC-3759d155-6f6d-4950-add7-0d38c2571fd3.pdf)  
+- [Python for Data Science and Machine Learning Bootcam](https://github.com/alyshahzad/Portfolio/blob/main/certificates/UC-3759d155-6f6d-4950-add7-0d38c2571fd3.pdf)  
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alyshahzad/Portfolio/blob/main/certificates/UC-bd4b99ed-057b-45b0-b337-5736672d16c3%20(1).pdf)  
 - [Other relevant certificates](https://github.com/alyshahzad/Portfolio/blob/main/certificates/Other%20Certificates.pdf)
+
+---
+
+## Publications
+- [Digital Fault Lines](https://medium.com/@alyshahzad/digital-fault-lines-f632dbee81b1)  
 
 ---
 
